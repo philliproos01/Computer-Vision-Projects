@@ -1,0 +1,11 @@
+image_path=C:\Users\coder\CompVision\Project1\Project1\synthetic_data\input (1).jpg
+image_shape=(1280, 1080, 3)
+GAUSS_KSIZE=(11, 11)  BINARY_THRESH=160
+blob quad found: eps=0.02 cnt[0] area=317179.5
+selected=candidate[0] area=317179.5 peri=2621.3
+corners_ordered=[[444.0, 407.0], [935.0, 508.0], [680.0, 1034.0], [65.0, 822.0]]
+homography=[[    3.1377     2.8655 -2559.3841]
+ [   -1.1678     5.6769 -1792.0157]
+ [    0.0001     0.0014     1.    ]]
+homography_inliers=4/4
+output_image_path=C:\Users\coder\CompVision\Project1\Project1\output_samples\output (1).jpg
